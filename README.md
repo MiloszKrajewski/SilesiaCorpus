@@ -1,6 +1,7 @@
 # Silesia Compression Corpus
 
-Silesia corpus is a set of files of different characteristics to test compression algorithm.
+Silesia corpus is a set of files of different characteristics to test compression algorithms.
+
 It was once available here: http://sun.aei.polsl.pl/~sdeor/index.php?page=silesia but is 
 inaccessible recently.
 

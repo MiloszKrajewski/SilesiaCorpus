@@ -4,8 +4,8 @@ Silesia corpus is a set of files of different characteristics to test compressio
 It was once available here: http://sun.aei.polsl.pl/~sdeor/index.php?page=silesia but is 
 inaccessible recently.
 
-| Size       | File    | Description                               |
-|------------|---------|-------------------------------------------|
+|       Size | File    | Description                               |
+|-----------:|---------|-------------------------------------------|
 | 10,192,446 | dickens | English novels, ASCII plain text          |
 | 51,220,480 | mozilla | Program, UNIX executables and others, tar |
 |  9,970,564 | mr      | 3-D MRI image, DICOM                      |
